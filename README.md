@@ -1,0 +1,1 @@
+# python-typescript-nvim-ide
